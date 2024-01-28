@@ -640,7 +640,8 @@ h6 {
 
   #main,
   #footer {
-    margin: 0% 10%;
+    margin-left: 10%;
+    margin-right: 10%;
   }
 }
 
