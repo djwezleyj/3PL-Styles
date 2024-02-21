@@ -31,7 +31,7 @@ h6 {
 }
 
 
-input.select2-search__field {
+input.select2-search__field, span.select2-selection {
   width: auto !important;
 }
 
