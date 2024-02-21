@@ -35,6 +35,10 @@ input.select2-search__field, span.select2-selection, span.select2 {
   width: auto !important;
 }
 
+tr.filters {
+  vertical-align: middle;
+}
+
 /*--------------------------------------------------------------
 # Main
 --------------------------------------------------------------*/
