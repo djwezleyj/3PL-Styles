@@ -35,6 +35,15 @@ input.select2-search__field, span.select2-selection, span.select2 {
   width: auto !important;
 }
 
+#lm-modal dl.row {
+  padding: 10px 0px 0px;
+  margin-bottom: 0px;
+}
+
+#lm-modal dd {
+  margin-bottom: 0px;
+}
+
 tr.filters {
   vertical-align: middle;
 }
