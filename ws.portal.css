@@ -39,6 +39,10 @@ tr.filters {
   vertical-align: middle;
 }
 
+.modal.show .modal-dialog {
+width: fit-content !important;
+}
+
 /*--------------------------------------------------------------
 # Main
 --------------------------------------------------------------*/
